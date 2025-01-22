@@ -6,6 +6,9 @@ public class Test {
 
 		public void Substract(){
 			System.out.println("Thise is Substraction method");
+
+			public void Multiplication(){
+				System.out.println("Thise is substraction method");
 		}
 	}
 
