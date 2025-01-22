@@ -9,6 +9,10 @@ public class Test {
 
 			public void Multiplication(){
 				System.out.println("Thise is substraction method");
+
+				public void Modulxiory(){
+					System.out.println("These is Modulxiory");
+				}
 		}
 	}
 
